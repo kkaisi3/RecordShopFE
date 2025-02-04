@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RecordShopBlazor.Client\RecordShopBlazor.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.11" />
+    <PackageReference Include="System.Net.Http.Json" Version="9.0.1" />
   </ItemGroup>
 
 </Project>

@@ -1,34 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\recordsloader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\recordsloader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\recordsummary.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\recordsummary.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\pages\\allrecordspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\allrecordspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\pages\\recordpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\recordpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\recorddetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\recorddetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\loading.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C67D966-BE37-4446-8D0C-0BE8AB9DE147}|RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj|c:\\users\\user\\northcoders\\backend\\recordshop project\\recordshopblazor\\recordshopblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\pages\\addrecord.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\addrecord.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\recordsummarylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\recordsummarylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67D966-BE37-4446-8D0C-0BE8AB9DE147}|RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C67D966-BE37-4446-8D0C-0BE8AB9DE147}|RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj|solutionrelative:recordshopblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60FE4A4A-E856-4ADE-A1B9-7F136CA45B1D}|RecordShopBlazor\\RecordShopBlazor.csproj|solutionrelative:recordshopblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C67D966-BE37-4446-8D0C-0BE8AB9DE147}|RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj|c:\\users\\user\\northcoders\\backend\\recordshopblazor\\recordshopblazor.client\\recordshopblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C67D966-BE37-4446-8D0C-0BE8AB9DE147}|RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj|solutionrelative:recordshopblazor.client\\recordshopblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +102,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Program.cs",
-              "RelativeDocumentMoniker": "RecordShopBlazor\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Program.cs",
-              "RelativeToolTip": "RecordShopBlazor\\Program.cs",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Genre.cs",
+              "RelativeToolTip": "RecordShopBlazor\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:04:11.584Z",
+              "WhenOpened": "2025-01-24T08:14:01.425Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\_Imports.razor",
-              "RelativeToolTip": "RecordShopBlazor\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RecordSummary.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordSummary.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\RecordSummary.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordSummary.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\RecordSummary.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T15:02:12.959Z",
+              "WhenOpened": "2025-02-02T22:30:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordDetails.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordDetails.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\RecordDetails.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordDetails.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\RecordDetails.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T14:56:43.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Loading.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Loading.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Loading.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Loading.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Loading.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T14:01:17.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecordPage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\RecordPage.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\RecordPage.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\RecordPage.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\RecordPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:14:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllRecordsPage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\AllRecordsPage.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\AllRecordsPage.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\AllRecordsPage.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\AllRecordsPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T19:12:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordsLoader.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordsLoader.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\RecordsLoader.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordsLoader.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\RecordsLoader.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T13:26:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\NavMenu.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\NavMenu.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T14:35:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Error.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Error.razor",
               "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -81,55 +228,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T14:59:45.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "RecordShopBlazor\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T14:44:24.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\App.razor",
-              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor\\Components\\App.razor",
-              "RelativeToolTip": "RecordShopBlazor\\Components\\App.razor",
+              "DocumentIndex": 9,
+              "Title": "AddRecord.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\AddRecord.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\AddRecord.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\AddRecord.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\AddRecord.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T08:28:50.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\appsettings.json",
+              "RelativeToolTip": "RecordShopBlazor\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T11:13:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordSummaryList.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordSummaryList.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\RecordSummaryList.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\RecordSummaryList.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\RecordSummaryList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T22:42:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Routes.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T10:38:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\NotFound.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\NotFound.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\NotFound.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T08:21:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\App.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T14:44:03.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor.Client\\Program.cs",
-              "RelativeDocumentMoniker": "RecordShopBlazor.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor.Client\\Program.cs",
-              "RelativeToolTip": "RecordShopBlazor.Client\\Program.cs",
+              "DocumentIndex": 15,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:59:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Album.cs",
+              "RelativeToolTip": "RecordShopBlazor\\Models\\Album.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:11:17.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Program.cs",
+              "RelativeToolTip": "RecordShopBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:04:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "RecordShopBlazor.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\Program.cs",
+              "RelativeToolTip": "RecordShopBlazor.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:54:13.771Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Models\\Artist.cs",
+              "RelativeToolTip": "RecordShopBlazor\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:13:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "RecordShopBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "RecordShopBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T15:02:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecordShopBlazor.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+              "RelativeDocumentMoniker": "RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+              "ToolTip": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+              "RelativeToolTip": "RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T23:02:59.977Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

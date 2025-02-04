@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecordShopBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222ff657f82c7f89f5d00362c1c9841fb223b50d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecordShopBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecordShopBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

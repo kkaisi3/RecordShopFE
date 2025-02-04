@@ -1,0 +1,70 @@
+﻿@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<PageTitle>@(album?.Title)</PageTitle>
+
+@if (album == null)
+{
+    <div class="has-text-centered">
+        <span class="icon is-large">
+        </span>
+    </div>
+}
+else
+{
+    <div class="box">
+        <EditForm Model="album" OnValidSubmit="HandleSave">
+            <div class="field">
+                <label class="label">Title</label>
+                <div class="control">
+                    <InputText class="input" @bind-Value="album.Title" />
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Artist</label>
+                <div class="control">
+                    <InputText class="input" @bind-Value="album.Artist.Name" />
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Year Released</label>
+                <div class="control">
+                    <InputNumber class="input" @bind-Value="album.YearReleased" />
+                </div>
+            </div>
+
+            <div class="field">
+                <label class="label">Genre</label>
+                <div class="control">
+                    <InputSelect class="select is-fullwidth" @bind-Value="album.Genre">
+                        @foreach (var genre in Enum.GetValues(typeof(Genre)))
+                        {
+                            <option value="@genre">@genre</option>
+                        }
+                    </InputSelect>
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <button type="submit" class="button is-primary">
+                        <span>Save Changes</span>
+                    </button>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public Album album { get; set; } = default!;
+
+    private async Task HandleSave()
+    {
+        await Http.PutAsJsonAsync($"api/Album/{album.Id}", album);
+        Navigation.NavigateTo("/records");
+    }
+}

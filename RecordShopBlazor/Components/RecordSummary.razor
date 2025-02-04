@@ -1,0 +1,47 @@
+﻿@inject NavigationManager Navigation
+
+<div class="card record-summary" @onclick="NavigateToDetails">
+    <div class="card-content">
+        <div class="media">
+            <div class="media-left">
+            </div>
+            <div class="media-content">
+                <p class="title is-4">@Album.Title</p>
+                <p class="subtitle is-6">@Album.Artist.Name</p>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="tags has-addons">
+                <span class="tag is-info">Year</span>
+                <span class="tag is-light">@Album.YearReleased</span>
+            </div>
+            <div class="tags has-addons">
+                <span class="tag is-primary">Genre</span>
+                <span class="tag is-light">@Album.Genre</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .record-summary {
+        cursor: pointer;
+        transition: transform 0.2s;
+    }
+
+        .record-summary:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+</style>
+
+@code {
+    [Parameter, EditorRequired]
+    public Album Album { get; set; } = default!;
+
+    private void NavigateToDetails()
+    {
+        Navigation.NavigateTo($"/records/{Album.Id}");
+    }
+}

@@ -1,0 +1,39 @@
+﻿@page "/records/{Id:int}"
+@inject HttpClient Http
+@rendermode InteractiveServer   
+@using RecordShopBlazor.Models
+
+<PageTitle>@(album?.Title)</PageTitle>
+
+@if (album == null)
+{
+    <Loading />
+}
+else if (errorMessage != null)
+{
+    <h3 class="">@errorMessage</h3>
+}
+else
+{
+    <RecordDetails album="album" />
+}
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Album? album;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            album = await Http.GetFromJsonAsync<Album>($"api/Album/{Id}");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error loading record: {ex.Message}";
+        }
+    }
+}

@@ -1,0 +1,16 @@
+﻿@namespace RecordShopBlazor.Components
+@using RecordShopBlazor.Models
+
+<div class="columns is-multiline is-variable is-4">
+    @foreach (var album in Albums)
+    {
+        <div class="column is-one-third-desktop is-half-tablet">
+            <RecordSummary Album="album" />
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public List<Album> Albums { get; set; } = new();
+}

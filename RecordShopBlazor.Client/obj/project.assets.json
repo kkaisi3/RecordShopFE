@@ -1671,11 +1671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+      "projectUniqueName": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
       "projectName": "RecordShopBlazor.Client",
-      "projectPath": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
+      "projectPath": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\RecordShopBlazor.Client.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\northcoders\\backend\\RecordShop Project\\RecordShopBlazor\\RecordShopBlazor.Client\\obj\\",
+      "outputPath": "C:\\Users\\User\\northcoders\\backend\\RecordShopBlazor\\RecordShopBlazor.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,37 @@
+﻿@inject HttpClient Http
+
+@if (isLoading)
+{
+    <Loading />
+}
+else if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="notification is-danger">@errorMessage</div>
+}
+else
+{
+    <RecordSummaryList Albums="albums" />
+}
+
+@code {
+    private List<Album> albums = new();
+    private string? errorMessage;
+    private bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            albums = await Http.GetFromJsonAsync<List<Album>>("api/Album");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error loading records: {ex.Message}";
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}
+y
